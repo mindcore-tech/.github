@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of **MINDCORE**. MINDCORE is a Danish-
 
 At Mindcore we build on a unique set of capabilities combining deep understanding of business processes with hardcore technology skills. Our core capabilities come from years of experience working with complex business driven IT projects across a multitude of different organisations. We are strong believers in technology - we are down-to-earth do’ers, and we can help you transform your IT platform.
 
-Visit our website: [mindcore.dk](https://mindcore.dk)
+Visit our website: [mindcore.dk](https://mindcore.dk) or blog [blog.mindcore.dk](https://blog.mindcore.dk)
 
 ## About Mindcore.dk
 
