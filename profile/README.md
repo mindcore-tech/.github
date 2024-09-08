@@ -6,7 +6,7 @@ At Mindcore we build on a unique set of capabilities combining deep understandin
 
 Visit our website: [mindcore.dk](https://mindcore.dk) or blog [blog.mindcore.dk](https://blog.mindcore.dk)
 
-## About Mindcore.dk
+## About MINDCORE
 
 The Mindcore website serves as a central hub for our organization, showcasing the wide range of services and expertise we offer. Here are some of the key sections available on Mindcore.dk:
 
