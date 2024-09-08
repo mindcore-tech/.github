@@ -47,4 +47,4 @@ To get started with the repository, please follow the instructions below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mindcore-org/repository.git
+   git clone https://github.com/mindcore-tech/repository.git
