@@ -28,6 +28,12 @@ We’ve partnered with a diverse range of clients across different sectors. Visi
 ### 📢 **News & Blog**
 Stay updated with the latest news, blog posts, and articles from our team of experts. Whether it's the announcement of a new project or a deep dive into a technological trend, our **News & Blog** page keeps you informed. See more at [blog.mindcore.dk](https://blog.mindcore.dk)
 
+#### 📝 Latest Blog Posts activities
+
+<!-- LATESTACTIVITYBLOG:START -->
+
+<!-- LATESTACTIVITYBLOG:END -->
+
 ### 📞 **Contact us**
 Got a question or need assistance? You can reach out to us through our **Contact us** page, where you'll find details on how to get in touch with our team, whether by phone, email, or through our inquiry form.
 
