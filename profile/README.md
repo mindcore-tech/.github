@@ -26,7 +26,7 @@ At Mindcore, we are committed to staying at the forefront of innovation. Our **R
 We’ve partnered with a diverse range of clients across different sectors. Visit our **Clients** section to see how we’ve helped businesses and organizations succeed with tailor-made solutions.
 
 ### 📢 **News & Blog**
-Stay updated with the latest news, blog posts, and articles from our team of experts. Whether it's the announcement of a new project or a deep dive into a technological trend, our **News & Blog** page keeps you informed. See more at [blo.mindcore.dk](https://blog.mindcore.dk)
+Stay updated with the latest news, blog posts, and articles from our team of experts. Whether it's the announcement of a new project or a deep dive into a technological trend, our **News & Blog** page keeps you informed. See more at [blog.mindcore.dk](https://blog.mindcore.dk)
 
 ### 📞 **Contact us**
 Got a question or need assistance? You can reach out to us through our **Contact us** page, where you'll find details on how to get in touch with our team, whether by phone, email, or through our inquiry form.
