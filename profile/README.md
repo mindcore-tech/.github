@@ -1,4 +1,4 @@
-# MINDCORE
+# Welcome to MINDCORE GitHub!
 
 Welcome to the official GitHub repository of **MINDCORE**. MINDCORE is a Danish-based organization specializing in cutting-edge solutions in IT Security and IT Transformations. Our mission is to provide innovative services and insights to our clients and the community.
 
