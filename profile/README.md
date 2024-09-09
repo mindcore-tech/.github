@@ -8,7 +8,7 @@ Visit our website: [mindcore.dk](https://mindcore.dk) or blog [blog.mindcore.dk]
 
 ## About MINDCORE
 
-The Mindcore website serves as a central hub for our organization, showcasing the wide range of services and expertise we offer. Here are some of the key sections available on Mindcore.dk:
+The Mindcore website serves as a central hub for our organization, showcasing the wide range of services and expertise we offer. Here are some of the key sections available on [mindcore.dk](https://mindcore.dk):
 
 ### 🌟 **Our Services**
 Discover the full spectrum of what we provide, from strategic consulting to hands-on implementation of the latest technologies. We specialize in:
@@ -39,9 +39,9 @@ Got a question or need assistance? You can reach out to us through our **Contact
 
 ---
 
-## Repository Overview
+## Repository overview
 
-This repository contains the source code, documentation, and tools necessary to support the [project type or platform] of MINDCORE sahre to the community. It also includes essential files for collaboration, version control, and issue tracking.
+This repository contains the source code, documentation, and tools necessary to support the [project type or platform] of MINDCORE share to the community. It also includes essential files for collaboration, version control, and issue tracking.
 
 ### Key Directories:
 - **/docs** - Detailed documentation for the project.
