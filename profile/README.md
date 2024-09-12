@@ -13,9 +13,9 @@ The Mindcore website serves as a central hub for our organization, showcasing th
 ### 🌟 **Our Services**
 Discover the full spectrum of what we provide, from strategic consulting to hands-on implementation of the latest technologies. We specialize in:
 - Modern Workplace
-- Azure Infrastruktur
-- IT Transformation
-- Sikkerhed & Compliance
+- Azure Infrastucture
+- IT Transformations
+- Security & Compliance
 
 Explore the detailed breakdown of our services to understand how we can help you achieve your goals.
 
