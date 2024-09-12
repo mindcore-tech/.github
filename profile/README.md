@@ -41,7 +41,7 @@ Got a question or need assistance? You can reach out to us through our **Contact
 
 ## Repository overview
 
-This repository contains the source code, documentation, and tools necessary to support the [project type or platform] of MINDCORE share to the community. It also includes essential files for collaboration, version control, and issue tracking.
+This repositories contains the source code, documentation, and tools necessary to support the project MINDCORE share to the community. It also includes essential files for collaboration, version control, and issue tracking.
 
 ### Key Directories:
 - **/docs** - Detailed documentation for the project.
@@ -51,6 +51,6 @@ This repository contains the source code, documentation, and tools necessary to 
 ### Getting Started
 To get started with the repository, please follow the instructions below:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/mindcore-tech/repository.git
+**Clone the repository:**
+```bash
+git clone https://github.com/mindcore-tech/repository.git
