@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Accessing user’s OneDrive with Global Administrator or SharePoint Administrator role.](https://blog.mindcore.dk/2024/10/accessing-users-onedrive-with-global-administrator-or-sharepoint-administrator-role/)
 - [Windows 365 Boot: Why User-Driven Mode?](https://blog.mindcore.dk/2024/10/windows-365-boot-why-user-driven-mode/)
 - [Mandatory MFA enforcements is coming](https://blog.mindcore.dk/2024/10/mandatory-mfa-enforcements-is-coming/)
 - [Enhancing Security With Intune MAM &lpar;preview&rpar; for Windows 365](https://blog.mindcore.dk/2024/08/enhancing-security-with-intune-mam-preview-for-windows-365/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Be aware of the new cookie monster – AiTM](https://blog.mindcore.dk/2023/04/be-aware-of-the-new-cookie-monster-aitm/)
 - [Feeding the Beast: Data Ingestion with Microsoft Sentinel](https://blog.mindcore.dk/2023/04/feeding-the-beast-data-ingestion-with-microsoft-sentinel/)
 - [The Sentinel Awakens: Microsoft Sentinel Introduction](https://blog.mindcore.dk/2023/03/the-sentinel-awakens-microsoft-sentinel-introduction/)
-- [Windows 365 End-User Experience &lpar;Tips &amp; Tricks&rpar; – Part 4. Windows 365 app and Cloud PC reporting](https://blog.mindcore.dk/2023/03/windows-365-end-user-experience-tips-tricks-part-4-windows-365-app-and-cloud-pc-reporting/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
