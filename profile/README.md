@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Languages confusion in Microsoft 365 portals](https://blog.mindcore.dk/2024/12/languages-confusion-in-microsoft-365-portals/)
 - [Accessing user’s OneDrive with Global Administrator or SharePoint Administrator role.](https://blog.mindcore.dk/2024/10/accessing-users-onedrive-with-global-administrator-or-sharepoint-administrator-role/)
 - [Windows 365 Boot: Why User-Driven Mode?](https://blog.mindcore.dk/2024/10/windows-365-boot-why-user-driven-mode/)
 - [Mandatory MFA enforcements is coming](https://blog.mindcore.dk/2024/10/mandatory-mfa-enforcements-is-coming/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Break Glass account – and how to get notified when a Break Glass account is used](https://blog.mindcore.dk/2023/05/break-glass-account-and-how-to-get-notified-when-a-break-glass-account-is-used/)
 - [Be aware of the new cookie monster – AiTM](https://blog.mindcore.dk/2023/04/be-aware-of-the-new-cookie-monster-aitm/)
 - [Feeding the Beast: Data Ingestion with Microsoft Sentinel](https://blog.mindcore.dk/2023/04/feeding-the-beast-data-ingestion-with-microsoft-sentinel/)
-- [The Sentinel Awakens: Microsoft Sentinel Introduction](https://blog.mindcore.dk/2023/03/the-sentinel-awakens-microsoft-sentinel-introduction/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
