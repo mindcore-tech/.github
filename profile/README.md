@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Tidslinje over pensionering af Microsoft løsninger i 2025](https://blog.mindcore.dk/2025/02/tidslinje-over-pensionering-af-microsoft-losninger-i-2025/)
 - [Entra ID Cross-Tenant Access Settings vs. Teams Cross-Cloud meetings – Who wins?](https://blog.mindcore.dk/2025/01/entra-id-cross-tenant-access-settings-vs-teams-cross-cloud-meetings-who-wins/)
 - [Azure Automanage Machine Configuration Introduction – Configuration as Code](https://blog.mindcore.dk/2024/12/azure-automanage-machine-configuration-introduction/)
 - [Languages confusion in Microsoft 365 portals](https://blog.mindcore.dk/2024/12/languages-confusion-in-microsoft-365-portals/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Sentinel Teams Up: Integrations with Microsoft Teams](https://blog.mindcore.dk/2023/06/sentinel-teams-up-integrations-with-microsoft-teams/)
 - [How to execute code remotely, from the cloud.](https://blog.mindcore.dk/2023/06/how-to-execute-code-remotely-from-the-cloud/)
 - [Remote Help just became more secure](https://blog.mindcore.dk/2023/05/remote-help-just-became-more-secure/)
-- [Break Glass account – and how to get notified when a Break Glass account is used](https://blog.mindcore.dk/2023/05/break-glass-account-and-how-to-get-notified-when-a-break-glass-account-is-used/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
