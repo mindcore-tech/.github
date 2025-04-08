@@ -15,6 +15,8 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Managed Identity Permission Manager](https://blog.mindcore.dk/2025/04/entra-id-managed-identity-permission-manager/)
+- [Sensitivity Labels in .DOCX Files: How Secure Is That Metadata?](https://blog.mindcore.dk/2025/04/sensitivity-labels-in-docx-files-how-secure-is-that-metadata/)
 - [Modern Server Management – Exploring Azure Arc Run Commands using Bicep](https://blog.mindcore.dk/2025/04/modern-server-management-exploring-azure-arc-run-commands-using-bicep/)
 - [Tidslinje over pensionering af Microsoft løsninger i 2025](https://blog.mindcore.dk/2025/02/tidslinje-over-pensionering-af-microsoft-losninger-i-2025/)
 - [Entra ID Cross-Tenant Access Settings vs. Teams Cross-Cloud meetings – Who wins?](https://blog.mindcore.dk/2025/01/entra-id-cross-tenant-access-settings-vs-teams-cross-cloud-meetings-who-wins/)
@@ -38,8 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Azure Cloud Sync Wizard – Doesn’t like Group-assigned roles](https://blog.mindcore.dk/2023/09/azure-cloud-sync-wizard-doesnt-like-group-assigned-roles/)
 - [Unleashing Control and Efficiency with Intune Custom RBAC Roles](https://blog.mindcore.dk/2023/07/unleashing-control-and-efficiency-with-intune-custom-rbac-roles/)
 - [Move Cloud PCs to a new Azure Region or Azure Network Connection](https://blog.mindcore.dk/2023/06/move-cloud-pcs-to-a-new-azure-region-or-azure-network-connection/)
-- [Sentinel Teams Up: Integrations with Microsoft Teams](https://blog.mindcore.dk/2023/06/sentinel-teams-up-integrations-with-microsoft-teams/)
-- [How to execute code remotely, from the cloud.](https://blog.mindcore.dk/2023/06/how-to-execute-code-remotely-from-the-cloud/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
