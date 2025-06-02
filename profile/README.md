@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
 - [Say Goodbye to SSO Consent Prompts for AVD and Windows 365](https://blog.mindcore.dk/2025/04/say-goodbye-to-sso-consent-prompts-for-avd-and-windows-365/)
 - [Entra ID – Managed Identity Permission Manager](https://blog.mindcore.dk/2025/04/entra-id-managed-identity-permission-manager/)
 - [Sensitivity Labels in .DOCX Files: How Secure Is That Metadata?](https://blog.mindcore.dk/2025/04/sensitivity-labels-in-docx-files-how-secure-is-that-metadata/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Saying Goodbye to Windows Server 2012 R2: It’s Not You, It’s Us &lpar;Well, Mostly You&rpar;](https://blog.mindcore.dk/2023/09/windows-server-2012-r2-eos/)
 - [GitHub Made Easy with PowerShell: A Beginner’s Handbook](https://blog.mindcore.dk/2023/09/github-made-easy-with-powershell-a-beginners-handbook/)
 - [Azure Cloud Sync Wizard – Doesn’t like Group-assigned roles](https://blog.mindcore.dk/2023/09/azure-cloud-sync-wizard-doesnt-like-group-assigned-roles/)
-- [Unleashing Control and Efficiency with Intune Custom RBAC Roles](https://blog.mindcore.dk/2023/07/unleashing-control-and-efficiency-with-intune-custom-rbac-roles/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
