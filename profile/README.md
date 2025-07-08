@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Getting Started with Microsoft Security Copilot: A Practical Guide for Defender, Intune, Entra &amp; More](https://blog.mindcore.dk/2025/07/getting-started-with-microsoft-security-copilot-a-practical-guide-for-defender-intune-entra-moreget-started-with-security-copilot/)
 - [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
 - [Say Goodbye to SSO Consent Prompts for AVD and Windows 365](https://blog.mindcore.dk/2025/04/say-goodbye-to-sso-consent-prompts-for-avd-and-windows-365/)
 - [Entra ID – Managed Identity Permission Manager](https://blog.mindcore.dk/2025/04/entra-id-managed-identity-permission-manager/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Server 2012 &lpar;R2&rpar; Extended Security Updates – A Deep Dive](https://blog.mindcore.dk/2023/10/server-2012-r2-extended-security-updates-a-deep-dive/)
 - [Saying Goodbye to Windows Server 2012 R2: It’s Not You, It’s Us &lpar;Well, Mostly You&rpar;](https://blog.mindcore.dk/2023/09/windows-server-2012-r2-eos/)
 - [GitHub Made Easy with PowerShell: A Beginner’s Handbook](https://blog.mindcore.dk/2023/09/github-made-easy-with-powershell-a-beginners-handbook/)
-- [Azure Cloud Sync Wizard – Doesn’t like Group-assigned roles](https://blog.mindcore.dk/2023/09/azure-cloud-sync-wizard-doesnt-like-group-assigned-roles/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
