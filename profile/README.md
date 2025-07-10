@@ -15,7 +15,8 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
-- [Getting Started with Microsoft Security Copilot: A Practical Guide for Defender, Intune, Entra &amp; More](https://blog.mindcore.dk/2025/07/getting-started-with-microsoft-security-copilot-a-practical-guide-for-defender-intune-entra-moreget-started-with-security-copilot/)
+- [RBAC in Microsoft Security Copilot: How to Set It Up and Why It Matters](https://blog.mindcore.dk/2025/07/rbac-microsoft-security-copilot/)
+- [Getting Started with Microsoft Security Copilot: A Practical Guide for Defender, Intune, Entra &amp; More](https://blog.mindcore.dk/2025/07/getting-started-microsoft-security-copilot/)
 - [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
 - [Say Goodbye to SSO Consent Prompts for AVD and Windows 365](https://blog.mindcore.dk/2025/04/say-goodbye-to-sso-consent-prompts-for-avd-and-windows-365/)
 - [Entra ID – Managed Identity Permission Manager](https://blog.mindcore.dk/2025/04/entra-id-managed-identity-permission-manager/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [How to migrate BitLocker key&lpar;s&rpar; from all fixed drives to Microsoft Entra ID.](https://blog.mindcore.dk/2023/11/how-to-migrate-bitlocker-keys-from-all-fixed-drives-to-microsoft-entra-id/)
 - [Server 2012 &lpar;R2&rpar; Extended Security Updates – A Deep Dive](https://blog.mindcore.dk/2023/10/server-2012-r2-extended-security-updates-a-deep-dive/)
 - [Saying Goodbye to Windows Server 2012 R2: It’s Not You, It’s Us &lpar;Well, Mostly You&rpar;](https://blog.mindcore.dk/2023/09/windows-server-2012-r2-eos/)
-- [GitHub Made Easy with PowerShell: A Beginner’s Handbook](https://blog.mindcore.dk/2023/09/github-made-easy-with-powershell-a-beginners-handbook/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
