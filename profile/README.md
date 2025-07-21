@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Modern Server Management with Azure Arc – Remote Management Pt.1 &lpar;SSH/RDP&rpar;](https://blog.mindcore.dk/2025/07/modern-server-management-with-azure-arc-remote-management-pt-1-ssh-rdp/)
 - [RBAC in Microsoft Security Copilot: How to Set It Up and Why It Matters](https://blog.mindcore.dk/2025/07/rbac-microsoft-security-copilot/)
 - [Getting Started with Microsoft Security Copilot: A Practical Guide for Defender, Intune, Entra &amp; More](https://blog.mindcore.dk/2025/07/getting-started-microsoft-security-copilot/)
 - [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [The Concept of Windows 365 Frontline](https://blog.mindcore.dk/2023/12/the-concept-of-windows-365-frontline/)
 - [How to migrate BitLocker key&lpar;s&rpar; from all fixed drives to Microsoft Entra ID.](https://blog.mindcore.dk/2023/11/how-to-migrate-bitlocker-keys-from-all-fixed-drives-to-microsoft-entra-id/)
 - [Server 2012 &lpar;R2&rpar; Extended Security Updates – A Deep Dive](https://blog.mindcore.dk/2023/10/server-2012-r2-extended-security-updates-a-deep-dive/)
-- [Saying Goodbye to Windows Server 2012 R2: It’s Not You, It’s Us &lpar;Well, Mostly You&rpar;](https://blog.mindcore.dk/2023/09/windows-server-2012-r2-eos/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
