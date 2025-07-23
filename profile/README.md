@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Defender XDR – Advanced Hunting – Custom Detection rules](https://blog.mindcore.dk/2025/07/microsoft-defender-xdr-advanced-hunting-custom-detection-rules/)
 - [Microsoft Teams can now attach files in external chats](https://blog.mindcore.dk/2025/07/microsoft-teams-can-now-attach-files-in-external-chats/)
 - [Modern Server Management with Azure Arc – Remote Management Pt.1 &lpar;SSH/RDP&rpar;](https://blog.mindcore.dk/2025/07/modern-server-management-with-azure-arc-remote-management-pt-1-ssh-rdp/)
 - [RBAC in Microsoft Security Copilot: How to Set It Up and Why It Matters](https://blog.mindcore.dk/2025/07/rbac-microsoft-security-copilot/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [The Concept of Windows 365 Boot](https://blog.mindcore.dk/2023/12/the-concept-of-windows-365-boot/)
 - [To Multitenant or not to Multitenant?](https://blog.mindcore.dk/2023/12/to-multitenant-or-not-to-multitenant/)
 - [The Concept of Windows 365 Frontline](https://blog.mindcore.dk/2023/12/the-concept-of-windows-365-frontline/)
-- [How to migrate BitLocker key&lpar;s&rpar; from all fixed drives to Microsoft Entra ID.](https://blog.mindcore.dk/2023/11/how-to-migrate-bitlocker-keys-from-all-fixed-drives-to-microsoft-entra-id/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
