@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [OneDrive Sync](https://blog.mindcore.dk/2025/08/onedrive-sync/)
 - [Azure Arc &amp; Hybrid Workers – Simplifying Hybrid Cloud Automation Pr.1](https://blog.mindcore.dk/2025/07/azure-arc-hybrid-workers-simplifying-hybrid-cloud-automation-pr-1/)
 - [Microsoft Defender XDR – Advanced Hunting – Custom Detection rules](https://blog.mindcore.dk/2025/07/microsoft-defender-xdr-advanced-hunting-custom-detection-rules/)
 - [Microsoft Teams can now attach files in external chats](https://blog.mindcore.dk/2025/07/microsoft-teams-can-now-attach-files-in-external-chats/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [The Concept of Windows 365 Switch](https://blog.mindcore.dk/2024/01/the-concept-of-windows-365-switch/)
 - [Building M365 apps designed for Autopilot and beyond](https://blog.mindcore.dk/2024/01/building-m365-apps-designed-for-autopilot-and-beyond/)
 - [The Concept of Windows 365 Boot](https://blog.mindcore.dk/2023/12/the-concept-of-windows-365-boot/)
-- [To Multitenant or not to Multitenant?](https://blog.mindcore.dk/2023/12/to-multitenant-or-not-to-multitenant/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
