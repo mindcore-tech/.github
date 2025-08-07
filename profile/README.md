@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [SharePoint integration with Entra B2B &lpar;2025&rpar;](https://blog.mindcore.dk/2025/08/sharepoint-integration-with-entra-b2b-2025/)
 - [OneDrive Sync](https://blog.mindcore.dk/2025/08/onedrive-sync/)
 - [Azure Arc &amp; Hybrid Workers – Simplifying Hybrid Cloud Automation Pr.1](https://blog.mindcore.dk/2025/07/azure-arc-hybrid-workers-simplifying-hybrid-cloud-automation-pr-1/)
 - [Microsoft Defender XDR – Advanced Hunting – Custom Detection rules](https://blog.mindcore.dk/2025/07/microsoft-defender-xdr-advanced-hunting-custom-detection-rules/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft 365 Copilot – a beginners guide](https://blog.mindcore.dk/2024/04/ai-writing-assistant-a-beginners-guide-into-microsoft-365-copilot/)
 - [The Concept of Windows 365 Switch](https://blog.mindcore.dk/2024/01/the-concept-of-windows-365-switch/)
 - [Building M365 apps designed for Autopilot and beyond](https://blog.mindcore.dk/2024/01/building-m365-apps-designed-for-autopilot-and-beyond/)
-- [The Concept of Windows 365 Boot](https://blog.mindcore.dk/2023/12/the-concept-of-windows-365-boot/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
