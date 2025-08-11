@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Modern Server Management with Azure Arc – Remote Management Pt.2 &lpar;Security/Linux&rpar;](https://blog.mindcore.dk/2025/08/modern-server-management-with-azure-arc-remote-management-pt-2-security-linux/)
 - [SharePoint integration with Entra B2B &lpar;2025&rpar;](https://blog.mindcore.dk/2025/08/sharepoint-integration-with-entra-b2b-2025/)
 - [OneDrive Sync](https://blog.mindcore.dk/2025/08/onedrive-sync/)
 - [Azure Arc &amp; Hybrid Workers – Simplifying Hybrid Cloud Automation Pr.1](https://blog.mindcore.dk/2025/07/azure-arc-hybrid-workers-simplifying-hybrid-cloud-automation-pr-1/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft 365 Copilot what it takes to assign the license!](https://blog.mindcore.dk/2024/06/microsoft-365-copilot-what-it-takes-to-assign-the-license/)
 - [Microsoft 365 Copilot – a beginners guide](https://blog.mindcore.dk/2024/04/ai-writing-assistant-a-beginners-guide-into-microsoft-365-copilot/)
 - [The Concept of Windows 365 Switch](https://blog.mindcore.dk/2024/01/the-concept-of-windows-365-switch/)
-- [Building M365 apps designed for Autopilot and beyond](https://blog.mindcore.dk/2024/01/building-m365-apps-designed-for-autopilot-and-beyond/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
