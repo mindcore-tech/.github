@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [IaC using Bicep for Entra ID and AD Groups with writeback](https://blog.mindcore.dk/2025/08/iac-using-bicep-for-entra-id-and-ad-groups-with-writeback/)
 - [Modern Server Management – Entra ID based SSH Login on Linux with Azure Arc](https://blog.mindcore.dk/2025/08/modern-server-management-entra-id-based-ssh-login-on-linux-with-azure-arc/)
 - [Modern Server Management with Azure Arc – Remote Management Pt.2 &lpar;Security/Linux&rpar;](https://blog.mindcore.dk/2025/08/modern-server-management-with-azure-arc-remote-management-pt-2-security-linux/)
 - [SharePoint integration with Entra B2B &lpar;2025&rpar;](https://blog.mindcore.dk/2025/08/sharepoint-integration-with-entra-b2b-2025/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Mandatory MFA enforcements is coming](https://blog.mindcore.dk/2024/10/mandatory-mfa-enforcements-is-coming/)
 - [Enhancing Security With Intune MAM &lpar;preview&rpar; for Windows 365](https://blog.mindcore.dk/2024/08/enhancing-security-with-intune-mam-preview-for-windows-365/)
 - [Microsoft 365 Copilot what it takes to assign the license!](https://blog.mindcore.dk/2024/06/microsoft-365-copilot-what-it-takes-to-assign-the-license/)
-- [Microsoft 365 Copilot – a beginners guide](https://blog.mindcore.dk/2024/04/ai-writing-assistant-a-beginners-guide-into-microsoft-365-copilot/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
