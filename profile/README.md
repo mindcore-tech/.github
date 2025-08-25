@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Modern Server Management – Azure Arc RDP with Entra ID Authentication](https://blog.mindcore.dk/2025/08/modern-server-management-azure-arc-rdp-with-entra-id-authentication/)
 - [IaC using Bicep for Entra ID and AD Groups with writeback](https://blog.mindcore.dk/2025/08/iac-using-bicep-for-entra-id-and-ad-groups-with-writeback/)
 - [Modern Server Management – Entra ID based SSH Login on Linux with Azure Arc](https://blog.mindcore.dk/2025/08/modern-server-management-entra-id-based-ssh-login-on-linux-with-azure-arc/)
 - [Modern Server Management with Azure Arc – Remote Management Pt.2 &lpar;Security/Linux&rpar;](https://blog.mindcore.dk/2025/08/modern-server-management-with-azure-arc-remote-management-pt-2-security-linux/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Windows 365 Boot: Why User-Driven Mode?](https://blog.mindcore.dk/2024/10/windows-365-boot-why-user-driven-mode/)
 - [Mandatory MFA enforcements is coming](https://blog.mindcore.dk/2024/10/mandatory-mfa-enforcements-is-coming/)
 - [Enhancing Security With Intune MAM &lpar;preview&rpar; for Windows 365](https://blog.mindcore.dk/2024/08/enhancing-security-with-intune-mam-preview-for-windows-365/)
-- [Microsoft 365 Copilot what it takes to assign the license!](https://blog.mindcore.dk/2024/06/microsoft-365-copilot-what-it-takes-to-assign-the-license/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
