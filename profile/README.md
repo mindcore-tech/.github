@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Connected Cache for Enterprise and Education – Deployment guide](https://blog.mindcore.dk/2025/08/microsoft-connected-cache-for-enterprise-and-education-deployment-guide/)
 - [Modern Server Management – Azure Arc RDP with Entra ID Authentication](https://blog.mindcore.dk/2025/08/modern-server-management-azure-arc-rdp-with-entra-id-authentication/)
 - [IaC using Bicep for Entra ID and AD Groups with writeback](https://blog.mindcore.dk/2025/08/iac-using-bicep-for-entra-id-and-ad-groups-with-writeback/)
 - [Modern Server Management – Entra ID based SSH Login on Linux with Azure Arc](https://blog.mindcore.dk/2025/08/modern-server-management-entra-id-based-ssh-login-on-linux-with-azure-arc/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Accessing user’s OneDrive with Global Administrator or SharePoint Administrator role.](https://blog.mindcore.dk/2024/10/accessing-users-onedrive-with-global-administrator-or-sharepoint-administrator-role/)
 - [Windows 365 Boot: Why User-Driven Mode?](https://blog.mindcore.dk/2024/10/windows-365-boot-why-user-driven-mode/)
 - [Mandatory MFA enforcements is coming](https://blog.mindcore.dk/2024/10/mandatory-mfa-enforcements-is-coming/)
-- [Enhancing Security With Intune MAM &lpar;preview&rpar; for Windows 365](https://blog.mindcore.dk/2024/08/enhancing-security-with-intune-mam-preview-for-windows-365/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
