@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 #### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Connected Cache for Enterprise and Education – HTTPS](https://blog.mindcore.dk/2025/09/microsoft-connected-cache-for-enterprise-and-education-https/)
 - [Per-user Entra ID multifactor authentication](https://blog.mindcore.dk/2025/09/per-user-entra-id-multifactor-authentication/)
 - [Microsoft Connected Cache for Enterprise and Education – Deployment guide](https://blog.mindcore.dk/2025/08/microsoft-connected-cache-for-enterprise-and-education-deployment-guide/)
 - [Modern Server Management – Azure Arc RDP with Entra ID Authentication](https://blog.mindcore.dk/2025/08/modern-server-management-azure-arc-rdp-with-entra-id-authentication/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Azure Automanage Machine Configuration Introduction – Configuration as Code](https://blog.mindcore.dk/2024/12/azure-automanage-machine-configuration-introduction/)
 - [Languages confusion in Microsoft 365 portals](https://blog.mindcore.dk/2024/12/languages-confusion-in-microsoft-365-portals/)
 - [Accessing user’s OneDrive with Global Administrator or SharePoint Administrator role.](https://blog.mindcore.dk/2024/10/accessing-users-onedrive-with-global-administrator-or-sharepoint-administrator-role/)
-- [Windows 365 Boot: Why User-Driven Mode?](https://blog.mindcore.dk/2024/10/windows-365-boot-why-user-driven-mode/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
