@@ -12,7 +12,7 @@ Blog: [blog.mindcore.dk](https://blog.mindcore.dk)
 
 Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/company/mindcoredk)
 
-#### 📝 Latest Blog Posts activities
+### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
 - [Microsoft Connected Cache for Enterprise and Education – HTTPS](https://blog.mindcore.dk/2025/09/microsoft-connected-cache-for-enterprise-and-education-https/)
@@ -61,4 +61,4 @@ To get started with the repository, please follow the instructions below:
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/mindcore-tech/repository.git
+git clone https://github.com/mindcore-tech/%repository%.git
