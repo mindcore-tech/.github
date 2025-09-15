@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Azure Arc VM Onboarding Pt.1 – Introduction](https://blog.mindcore.dk/2025/09/azure-arc-vm-onboarding-pt-1-introduction/)
 - [Microsoft Purview – Enabling Sensitivity &lpar;Purview&rpar; Labels for documents in Teams](https://blog.mindcore.dk/2025/09/microsoft-purview-enabling-sensitivity-purview-labels-for-documents-in-teams/)
 - [Microsoft Connected Cache for Enterprise and Education – HTTPS](https://blog.mindcore.dk/2025/09/microsoft-connected-cache-for-enterprise-and-education-https/)
 - [Per-user Entra ID multifactor authentication](https://blog.mindcore.dk/2025/09/per-user-entra-id-multifactor-authentication/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Tidslinje over pensionering af Microsoft løsninger i 2025](https://blog.mindcore.dk/2025/02/tidslinje-over-pensionering-af-microsoft-losninger-i-2025/)
 - [Entra ID Cross-Tenant Access Settings vs. Teams Cross-Cloud meetings – Who wins?](https://blog.mindcore.dk/2025/01/entra-id-cross-tenant-access-settings-vs-teams-cross-cloud-meetings-who-wins/)
 - [Azure Automanage Machine Configuration Introduction – Configuration as Code](https://blog.mindcore.dk/2024/12/azure-automanage-machine-configuration-introduction/)
-- [Languages confusion in Microsoft 365 portals](https://blog.mindcore.dk/2024/12/languages-confusion-in-microsoft-365-portals/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
