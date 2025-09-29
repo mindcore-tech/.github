@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Restrict save in Office apps to Cloud locations](https://blog.mindcore.dk/2025/09/restrict-save-in-office-apps-to-cloud-locations/)
 - [Windows 10 Extended support – does this change anything for enterprise users or is it only for personal devices?](https://blog.mindcore.dk/2025/09/windows-10-extended-support-does-this-change-anything-for-enterprise-users-or-is-it-only-for-personal-devices/)
 - [Azure Arc VM Onboarding Pt.2 – GPO Deep-Dive](https://blog.mindcore.dk/2025/09/azure-arc-vm-onboarding-pt-2-gpo-deep-dive/)
 - [Azure Arc VM Onboarding Pt.1 – Introduction](https://blog.mindcore.dk/2025/09/azure-arc-vm-onboarding-pt-1-introduction/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Entra ID – Managed Identity Permission Manager](https://blog.mindcore.dk/2025/04/entra-id-managed-identity-permission-manager/)
 - [Sensitivity Labels in .DOCX Files: How Secure Is That Metadata?](https://blog.mindcore.dk/2025/04/sensitivity-labels-in-docx-files-how-secure-is-that-metadata/)
 - [Modern Server Management – Exploring Azure Arc Run Commands using Bicep](https://blog.mindcore.dk/2025/04/modern-server-management-exploring-azure-arc-run-commands-using-bicep/)
-- [Tidslinje over pensionering af Microsoft løsninger i 2025](https://blog.mindcore.dk/2025/02/tidslinje-over-pensionering-af-microsoft-losninger-i-2025/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
