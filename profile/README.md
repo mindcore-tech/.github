@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Teams and file sync to OneDrive Pt. 1](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-1/)
 - [Unlock Teams Premium prompt](https://blog.mindcore.dk/2025/10/unlock-teams-premium-prompt/)
 - [Restrict save in Office apps to Cloud locations](https://blog.mindcore.dk/2025/09/restrict-save-in-office-apps-to-cloud-locations/)
 - [Windows 10 Extended support – does this change anything for enterprise users or is it only for personal devices?](https://blog.mindcore.dk/2025/09/windows-10-extended-support-does-this-change-anything-for-enterprise-users-or-is-it-only-for-personal-devices/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
 - [Say Goodbye to SSO Consent Prompts for AVD and Windows 365](https://blog.mindcore.dk/2025/04/say-goodbye-to-sso-consent-prompts-for-avd-and-windows-365/)
 - [Entra ID – Managed Identity Permission Manager](https://blog.mindcore.dk/2025/04/entra-id-managed-identity-permission-manager/)
-- [Sensitivity Labels in .DOCX Files: How Secure Is That Metadata?](https://blog.mindcore.dk/2025/04/sensitivity-labels-in-docx-files-how-secure-is-that-metadata/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
