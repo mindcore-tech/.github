@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Delete chats in Microsoft Teams based on a retention policy](https://blog.mindcore.dk/2025/10/delete-chats-in-microsoft-teams-based-on-a-retention-policy/)
 - [Teams and file sync to OneDrive Pt. 2](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-2/)
 - [Teams and file sync to OneDrive Pt. 1](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-1/)
 - [Unlock Teams Premium prompt](https://blog.mindcore.dk/2025/10/unlock-teams-premium-prompt/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [RBAC in Microsoft Security Copilot: How to Set It Up and Why It Matters](https://blog.mindcore.dk/2025/07/rbac-microsoft-security-copilot/)
 - [Getting Started with Microsoft Security Copilot: A Practical Guide for Defender, Intune, Entra &amp; More](https://blog.mindcore.dk/2025/07/getting-started-microsoft-security-copilot/)
 - [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
-- [Say Goodbye to SSO Consent Prompts for AVD and Windows 365](https://blog.mindcore.dk/2025/04/say-goodbye-to-sso-consent-prompts-for-avd-and-windows-365/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
