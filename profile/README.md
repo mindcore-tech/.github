@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Default selected options when sharing files in Teams](https://blog.mindcore.dk/2025/11/default-selected-options-when-sharing-files-in-teams/)
 - [Delete chats in Microsoft Teams based on a retention policy](https://blog.mindcore.dk/2025/10/delete-chats-in-microsoft-teams-based-on-a-retention-policy/)
 - [Teams and file sync to OneDrive Pt. 2](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-2/)
 - [Teams and file sync to OneDrive Pt. 1](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-1/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Modern Server Management with Azure Arc – Remote Management Pt.1 &lpar;SSH/RDP&rpar;](https://blog.mindcore.dk/2025/07/modern-server-management-with-azure-arc-remote-management-pt-1-ssh-rdp/)
 - [RBAC in Microsoft Security Copilot: How to Set It Up and Why It Matters](https://blog.mindcore.dk/2025/07/rbac-microsoft-security-copilot/)
 - [Getting Started with Microsoft Security Copilot: A Practical Guide for Defender, Intune, Entra &amp; More](https://blog.mindcore.dk/2025/07/getting-started-microsoft-security-copilot/)
-- [Microsoft’s changed recommendation on Secure Time Seeding for Windows Server](https://blog.mindcore.dk/2025/06/microsofts-changed-recommendation-on-secure-time-seeding-for-windows-server/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
