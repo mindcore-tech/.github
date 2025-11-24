@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Inactive Teams and governance](https://blog.mindcore.dk/2025/11/inactive-teams-and-governance/)
 - [When Community ideas become features: Reflections on a recent Entra ID change – UI for Application Management Policies – finally!](https://blog.mindcore.dk/2025/11/when-community-ideas-become-features-reflections-on-a-recent-entra-id-change-ui-for-application-management-policies-finally/)
 - [Send an email to a channel in Microsoft Teams](https://blog.mindcore.dk/2025/11/send-an-email-to-a-channel-in-microsoft-teams/)
 - [Default selected options when sharing files in Teams](https://blog.mindcore.dk/2025/11/default-selected-options-when-sharing-files-in-teams/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Azure Arc &amp; Hybrid Workers – Simplifying Hybrid Cloud Automation Pr.1](https://blog.mindcore.dk/2025/07/azure-arc-hybrid-workers-simplifying-hybrid-cloud-automation-pr-1/)
 - [Microsoft Defender XDR – Advanced Hunting – Custom Detection rules](https://blog.mindcore.dk/2025/07/microsoft-defender-xdr-advanced-hunting-custom-detection-rules/)
 - [Microsoft Teams can now attach files in external chats](https://blog.mindcore.dk/2025/07/microsoft-teams-can-now-attach-files-in-external-chats/)
-- [Modern Server Management with Azure Arc – Remote Management Pt.1 &lpar;SSH/RDP&rpar;](https://blog.mindcore.dk/2025/07/modern-server-management-with-azure-arc-remote-management-pt-1-ssh-rdp/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
