@@ -17,7 +17,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 <!-- LATESTACTIVITYBLOG:START -->
 - [Microsoft Teams and external members Pt. 1](https://blog.mindcore.dk/2025/12/microsoft-teams-and-external-members-pt-1/)
 - [Inactive Teams and governance](https://blog.mindcore.dk/2025/11/inactive-teams-and-governance/)
-- [How Community Feedback Shaped the New Entra ID App Management UI](https://blog.mindcore.dk/2025/11/when-community-ideas-become-features-reflections-on-a-recent-entra-id-change-ui-for-application-management-policies-finally/)
+- [How Community Feedback Shaped the New Entra ID App Management UI](https://blog.mindcore.dk/2025/11/how-community-feedback-shaped-the-new-entra-id-app-management-ui/)
 - [Send an email to a channel in Microsoft Teams](https://blog.mindcore.dk/2025/11/send-an-email-to-a-channel-in-microsoft-teams/)
 - [Default selected options when sharing files in Teams](https://blog.mindcore.dk/2025/11/default-selected-options-when-sharing-files-in-teams/)
 - [Delete chats in Microsoft Teams based on a retention policy](https://blog.mindcore.dk/2025/10/delete-chats-in-microsoft-teams-based-on-a-retention-policy/)
