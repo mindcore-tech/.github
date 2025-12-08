@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [How to retrieve &amp; save messages by InternetMessageID from Microsoft 365 mailboxes via Microsoft Graph](https://blog.mindcore.dk/2025/12/how-to-retrieve-save-messages-by-internetmessageid-from-microsoft-365-mailboxes-via-microsoft-graph/)
 - [Microsoft Teams and external members Pt. 1](https://blog.mindcore.dk/2025/12/microsoft-teams-and-external-members-pt-1/)
 - [Inactive Teams and governance](https://blog.mindcore.dk/2025/11/inactive-teams-and-governance/)
 - [How Community Feedback Shaped the New Entra ID App Management UI](https://blog.mindcore.dk/2025/11/how-community-feedback-shaped-the-new-entra-id-app-management-ui/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [SharePoint integration with Entra B2B &lpar;2025&rpar;](https://blog.mindcore.dk/2025/08/sharepoint-integration-with-entra-b2b-2025/)
 - [OneDrive Sync](https://blog.mindcore.dk/2025/08/onedrive-sync/)
 - [Azure Arc &amp; Hybrid Workers – Simplifying Hybrid Cloud Automation Pr.1](https://blog.mindcore.dk/2025/07/azure-arc-hybrid-workers-simplifying-hybrid-cloud-automation-pr-1/)
-- [Microsoft Defender XDR – Advanced Hunting – Custom Detection rules](https://blog.mindcore.dk/2025/07/microsoft-defender-xdr-advanced-hunting-custom-detection-rules/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
