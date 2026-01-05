@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Azure Arc VM Onboarding Pt.3 – Post-Deployment Task Automation](https://blog.mindcore.dk/2026/01/azure-arc-vm-onboarding-pt-3-post-deployment-task-automation/)
 - [External mail settings](https://blog.mindcore.dk/2025/12/external-mail-settings/)
 - [How to retrieve &amp; save messages by InternetMessageID from Microsoft 365 mailboxes via Microsoft Graph](https://blog.mindcore.dk/2025/12/how-to-retrieve-save-messages-by-internetmessageid-from-microsoft-365-mailboxes-via-microsoft-graph/)
 - [Microsoft Teams and external members Pt. 1](https://blog.mindcore.dk/2025/12/microsoft-teams-and-external-members-pt-1/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Modern Server Management – Entra ID based SSH Login on Linux with Azure Arc](https://blog.mindcore.dk/2025/08/modern-server-management-entra-id-based-ssh-login-on-linux-with-azure-arc/)
 - [Modern Server Management with Azure Arc – Remote Management Pt.2 &lpar;Security/Linux&rpar;](https://blog.mindcore.dk/2025/08/modern-server-management-with-azure-arc-remote-management-pt-2-security-linux/)
 - [SharePoint integration with Entra B2B &lpar;2025&rpar;](https://blog.mindcore.dk/2025/08/sharepoint-integration-with-entra-b2b-2025/)
-- [OneDrive Sync](https://blog.mindcore.dk/2025/08/onedrive-sync/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
