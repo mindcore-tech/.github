@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Heads-up: Service Principal-less apps Retirement March 2026](https://blog.mindcore.dk/2026/01/heads-up-service-principal-less-apps-retirement-march-2026/)
 - [Azure Arc VM Onboarding Pt.3 – Post-Deployment Task Automation](https://blog.mindcore.dk/2026/01/azure-arc-vm-onboarding-pt-3-post-deployment-task-automation/)
 - [External mail settings](https://blog.mindcore.dk/2025/12/external-mail-settings/)
 - [How to retrieve &amp; save messages by InternetMessageID from Microsoft 365 mailboxes via Microsoft Graph](https://blog.mindcore.dk/2025/12/how-to-retrieve-save-messages-by-internetmessageid-from-microsoft-365-mailboxes-via-microsoft-graph/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [IaC using Bicep for Entra ID and AD Groups with writeback](https://blog.mindcore.dk/2025/08/iac-using-bicep-for-entra-id-and-ad-groups-with-writeback/)
 - [Modern Server Management – Entra ID based SSH Login on Linux with Azure Arc](https://blog.mindcore.dk/2025/08/modern-server-management-entra-id-based-ssh-login-on-linux-with-azure-arc/)
 - [Modern Server Management with Azure Arc – Remote Management Pt.2 &lpar;Security/Linux&rpar;](https://blog.mindcore.dk/2025/08/modern-server-management-with-azure-arc-remote-management-pt-2-security-linux/)
-- [SharePoint integration with Entra B2B &lpar;2025&rpar;](https://blog.mindcore.dk/2025/08/sharepoint-integration-with-entra-b2b-2025/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
