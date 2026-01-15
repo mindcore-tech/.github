@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Conditional Access policies and Custom Security Attributes – Match made in heaven or false security?](https://blog.mindcore.dk/2026/01/conditional-access-policies-and-custom-security-attributes-match-made-in-heaven-or-false-security/)
 - [Entra ID – PIM for Groups – Automating PIM Group Activation in Entra ID with PowerShell](https://blog.mindcore.dk/2026/01/entra-id-pim-for-groups-automating-pim-group-activation-in-entra-id-with-powershell/)
 - [Heads-up: Service Principal-less apps Retirement March 2026](https://blog.mindcore.dk/2026/01/heads-up-service-principal-less-apps-retirement-march-2026/)
 - [Azure Arc VM Onboarding Pt.3 – Post-Deployment Task Automation](https://blog.mindcore.dk/2026/01/azure-arc-vm-onboarding-pt-3-post-deployment-task-automation/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft Connected Cache for Enterprise and Education – Deployment guide](https://blog.mindcore.dk/2025/08/microsoft-connected-cache-for-enterprise-and-education-deployment-guide/)
 - [Modern Server Management – Azure Arc RDP with Entra ID Authentication](https://blog.mindcore.dk/2025/08/modern-server-management-azure-arc-rdp-with-entra-id-authentication/)
 - [IaC using Bicep for Entra ID and AD Groups with writeback](https://blog.mindcore.dk/2025/08/iac-using-bicep-for-entra-id-and-ad-groups-with-writeback/)
-- [Modern Server Management – Entra ID based SSH Login on Linux with Azure Arc](https://blog.mindcore.dk/2025/08/modern-server-management-entra-id-based-ssh-login-on-linux-with-azure-arc/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
