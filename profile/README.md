@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft Intune – Autopatch – CVE and KB reporting – Better visibility, smarter patching](https://blog.mindcore.dk/2026/01/microsoft-intune-autopatch-cve-and-kb-reporting-better-visibility-smarter-patching/)
 - [Conditional Access policies and Custom Security Attributes – Match made in heaven or false security?](https://blog.mindcore.dk/2026/01/conditional-access-policies-and-custom-security-attributes-match-made-in-heaven-or-false-security/)
 - [Entra ID – PIM for Groups – Automating PIM Group Activation in Entra ID with PowerShell](https://blog.mindcore.dk/2026/01/entra-id-pim-for-groups-automating-pim-group-activation-in-entra-id-with-powershell/)
 - [Heads-up: Service Principal-less apps Retirement March 2026](https://blog.mindcore.dk/2026/01/heads-up-service-principal-less-apps-retirement-march-2026/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Per-user Entra ID multifactor authentication](https://blog.mindcore.dk/2025/09/per-user-entra-id-multifactor-authentication/)
 - [Microsoft Connected Cache for Enterprise and Education – Deployment guide](https://blog.mindcore.dk/2025/08/microsoft-connected-cache-for-enterprise-and-education-deployment-guide/)
 - [Modern Server Management – Azure Arc RDP with Entra ID Authentication](https://blog.mindcore.dk/2025/08/modern-server-management-azure-arc-rdp-with-entra-id-authentication/)
-- [IaC using Bicep for Entra ID and AD Groups with writeback](https://blog.mindcore.dk/2025/08/iac-using-bicep-for-entra-id-and-ad-groups-with-writeback/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
