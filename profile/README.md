@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Teams and external members Pt. 2](https://blog.mindcore.dk/2026/01/teams-and-external-members-pt-2/)
 - [Microsoft Sentinel Best Practices: DO’s and DON’Ts](https://blog.mindcore.dk/2026/01/microsoft-sentinel-best-practices-dos-and-donts/)
 - [Microsoft Intune – Autopatch – CVE and KB reporting – Better visibility, smarter patching](https://blog.mindcore.dk/2026/01/microsoft-intune-autopatch-cve-and-kb-reporting-better-visibility-smarter-patching/)
 - [Conditional Access policies and Custom Security Attributes – Match made in heaven or false security?](https://blog.mindcore.dk/2026/01/conditional-access-policies-and-custom-security-attributes-match-made-in-heaven-or-false-security/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft Purview – Enabling Sensitivity &lpar;Purview&rpar; Labels for documents in Teams](https://blog.mindcore.dk/2025/09/microsoft-purview-enabling-sensitivity-purview-labels-for-documents-in-teams/)
 - [Microsoft Connected Cache for Enterprise and Education – HTTPS](https://blog.mindcore.dk/2025/09/microsoft-connected-cache-for-enterprise-and-education-https/)
 - [Per-user Entra ID multifactor authentication](https://blog.mindcore.dk/2025/09/per-user-entra-id-multifactor-authentication/)
-- [Microsoft Connected Cache for Enterprise and Education – Deployment guide](https://blog.mindcore.dk/2025/08/microsoft-connected-cache-for-enterprise-and-education-deployment-guide/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
