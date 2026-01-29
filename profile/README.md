@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [First look: Unified Tenant Configuration Management APIs](https://blog.mindcore.dk/2026/01/first-look-unified-tenant-configuration-management-apis/)
 - [Teams and external members Pt. 2](https://blog.mindcore.dk/2026/01/teams-and-external-members-pt-2/)
 - [Microsoft Sentinel Best Practices: DO’s and DON’Ts](https://blog.mindcore.dk/2026/01/microsoft-sentinel-best-practices-dos-and-donts/)
 - [Microsoft Intune – Autopatch – CVE and KB reporting – Better visibility, smarter patching](https://blog.mindcore.dk/2026/01/microsoft-intune-autopatch-cve-and-kb-reporting-better-visibility-smarter-patching/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Azure Arc VM Onboarding Pt.1 – Introduction](https://blog.mindcore.dk/2025/09/azure-arc-vm-onboarding-pt-1-introduction/)
 - [Microsoft Purview – Enabling Sensitivity &lpar;Purview&rpar; Labels for documents in Teams](https://blog.mindcore.dk/2025/09/microsoft-purview-enabling-sensitivity-purview-labels-for-documents-in-teams/)
 - [Microsoft Connected Cache for Enterprise and Education – HTTPS](https://blog.mindcore.dk/2025/09/microsoft-connected-cache-for-enterprise-and-education-https/)
-- [Per-user Entra ID multifactor authentication](https://blog.mindcore.dk/2025/09/per-user-entra-id-multifactor-authentication/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
