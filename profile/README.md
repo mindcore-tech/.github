@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Ownerless Teams](https://blog.mindcore.dk/2026/02/ownerless-teams/)
 - [Blocking Tor/Botnet/Anonymous Proxy access to M365](https://blog.mindcore.dk/2026/02/blocking-tor-botnet-anonymous-proxy-access-to-m365/)
 - [June 2026: Secure Boot Certificates are expiring – Help is on the way](https://blog.mindcore.dk/2026/02/june-2026-secure-boot-certificates-are-expiring-help-is-on-the-way/)
 - [First look: Unified Tenant Configuration Management APIs](https://blog.mindcore.dk/2026/01/first-look-unified-tenant-configuration-management-apis/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Restrict save in Office apps to Cloud locations](https://blog.mindcore.dk/2025/09/restrict-save-in-office-apps-to-cloud-locations/)
 - [Windows 10 Extended support – does this change anything for enterprise users or is it only for personal devices?](https://blog.mindcore.dk/2025/09/windows-10-extended-support-does-this-change-anything-for-enterprise-users-or-is-it-only-for-personal-devices/)
 - [Azure Arc VM Onboarding Pt.2 – GPO Deep-Dive](https://blog.mindcore.dk/2025/09/azure-arc-vm-onboarding-pt-2-gpo-deep-dive/)
-- [Azure Arc VM Onboarding Pt.1 – Introduction](https://blog.mindcore.dk/2025/09/azure-arc-vm-onboarding-pt-1-introduction/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
