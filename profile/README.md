@@ -15,9 +15,9 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [June 2026: Secure Boot Certificates are expiring – Help is on the way](https://blog.mindcore.dk/2026/02/windows-secure-boot-certificate-expiration-2026/)
 - [Ownerless Teams](https://blog.mindcore.dk/2026/02/ownerless-teams/)
 - [Blocking Tor/Botnet/Anonymous Proxy access to M365](https://blog.mindcore.dk/2026/02/blocking-tor-botnet-anonymous-proxy-access-to-m365/)
-- [June 2026: Secure Boot Certificates are expiring – Help is on the way](https://blog.mindcore.dk/2026/02/june-2026-secure-boot-certificates-are-expiring-help-is-on-the-way/)
 - [First look: Unified Tenant Configuration Management APIs](https://blog.mindcore.dk/2026/01/first-look-unified-tenant-configuration-management-apis/)
 - [Teams and external members Pt. 2](https://blog.mindcore.dk/2026/01/teams-and-external-members-pt-2/)
 - [Microsoft Sentinel Best Practices: DO’s and DON’Ts](https://blog.mindcore.dk/2026/01/microsoft-sentinel-best-practices-dos-and-donts/)
