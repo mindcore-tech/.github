@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Microsoft 365 E7: The Frontier Suite and the Rise of AI Agents](https://blog.mindcore.dk/2026/03/microsoft-365-e7-the-frontier-suite-and-the-rise-of-ai-agents/)
 - [Microsoft Graph – Remembered to restict Mail.Send Application Permission? &lpar;App Access Policies&rpar;](https://blog.mindcore.dk/2026/02/microsoft-graph-remembered-to-restict-mail-send-application-permission-app-access-policies/)
 - [June 2026: Secure Boot Certificates are expiring – Help is on the way](https://blog.mindcore.dk/2026/02/windows-secure-boot-certificate-expiration-2026/)
 - [Ownerless Teams](https://blog.mindcore.dk/2026/02/ownerless-teams/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Teams and file sync to OneDrive Pt. 1](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-1/)
 - [Unlock Teams Premium prompt](https://blog.mindcore.dk/2025/10/unlock-teams-premium-prompt/)
 - [Restrict save in Office apps to Cloud locations](https://blog.mindcore.dk/2025/09/restrict-save-in-office-apps-to-cloud-locations/)
-- [Windows 10 Extended support – does this change anything for enterprise users or is it only for personal devices?](https://blog.mindcore.dk/2025/09/windows-10-extended-support-does-this-change-anything-for-enterprise-users-or-is-it-only-for-personal-devices/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
