@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Strengthening Your Last Line of Defense: Hardening Intune After the Stryker Attack](https://blog.mindcore.dk/2026/03/strengthening-your-last-line-of-defense-hardening-intune-after-the-stryker-attack/)
 - [Mindcore i det daglige – Del 1](https://blog.mindcore.dk/2026/03/mindcore-i-det-daglige-del-1/)
 - [Microsoft 365 E7: The Frontier Suite and the Rise of AI Agents](https://blog.mindcore.dk/2026/03/microsoft-365-e7-the-frontier-suite-and-the-rise-of-ai-agents/)
 - [Microsoft Graph – Remembered to restict Mail.Send Application Permission? &lpar;App Access Policies&rpar;](https://blog.mindcore.dk/2026/02/microsoft-graph-remembered-to-restict-mail-send-application-permission-app-access-policies/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Delete chats in Microsoft Teams based on a retention policy](https://blog.mindcore.dk/2025/10/delete-chats-in-microsoft-teams-based-on-a-retention-policy/)
 - [Teams and file sync to OneDrive Pt. 2](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-2/)
 - [Teams and file sync to OneDrive Pt. 1](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-1/)
-- [Unlock Teams Premium prompt](https://blog.mindcore.dk/2025/10/unlock-teams-premium-prompt/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
