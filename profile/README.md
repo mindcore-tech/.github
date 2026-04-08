@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Flex routing and Copilot](https://blog.mindcore.dk/2026/04/flex-routing-and-copilot/)
 - [Secure Boot Certificate Update – Making It Happen with Intune Remediations](https://blog.mindcore.dk/2026/04/secure-boot-certificate-update-intune/)
 - [Strengthening Your Last Line of Defense: Hardening Intune After the Stryker Attack](https://blog.mindcore.dk/2026/03/strengthening-your-last-line-of-defense-hardening-intune-after-the-stryker-attack/)
 - [Mindcore i det daglige – Del 1](https://blog.mindcore.dk/2026/03/mindcore-i-det-daglige-del-1/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Send an email to a channel in Microsoft Teams](https://blog.mindcore.dk/2025/11/send-an-email-to-a-channel-in-microsoft-teams/)
 - [Default selected options when sharing files in Teams](https://blog.mindcore.dk/2025/11/default-selected-options-when-sharing-files-in-teams/)
 - [Delete chats in Microsoft Teams based on a retention policy](https://blog.mindcore.dk/2025/10/delete-chats-in-microsoft-teams-based-on-a-retention-policy/)
-- [Teams and file sync to OneDrive Pt. 2](https://blog.mindcore.dk/2025/10/teams-and-file-sync-to-onedrive-pt-2/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
