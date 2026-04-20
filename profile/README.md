@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Introducing the Active Directory Domain Page in Microsoft Defender](https://blog.mindcore.dk/2026/04/introducing-the-active-directory-domain-page-in-microsoft-defender/)
 - [The recent April 2026 Windows security updates can trigger a one-time BitLocker recovery screen on startup](https://blog.mindcore.dk/2026/04/the-recent-april-2026-windows-security-updates-can-trigger-a-one-time-bitlocker-recovery-screen-on-startup/)
 - [Microsoft Defender’s New Password Protection Experience](https://blog.mindcore.dk/2026/04/microsoft-defenders-new-password-protection-experience/)
 - [Flex routing and Copilot](https://blog.mindcore.dk/2026/04/flex-routing-and-copilot/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft Teams and external members Pt. 1](https://blog.mindcore.dk/2025/12/microsoft-teams-and-external-members-pt-1/)
 - [Inactive Teams and governance](https://blog.mindcore.dk/2025/11/inactive-teams-and-governance/)
 - [How Community Feedback Shaped the New Entra ID App Management UI](https://blog.mindcore.dk/2025/11/how-community-feedback-shaped-the-new-entra-id-app-management-ui/)
-- [Send an email to a channel in Microsoft Teams](https://blog.mindcore.dk/2025/11/send-an-email-to-a-channel-in-microsoft-teams/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
