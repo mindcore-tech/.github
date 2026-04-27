@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Defender for Endpoint – New feature is out: Live response file library!](https://blog.mindcore.dk/2026/04/defender-for-endpoint-new-feature-is-out-live-response-file-library/)
 - [Mindcore i det daglige – Del 2](https://blog.mindcore.dk/2026/04/mindcore-i-det-daglige-del-2/)
 - [Introducing the Active Directory Domain Page in Microsoft Defender](https://blog.mindcore.dk/2026/04/introducing-the-active-directory-domain-page-in-microsoft-defender/)
 - [The recent April 2026 Windows security updates can trigger a one-time BitLocker recovery screen on startup](https://blog.mindcore.dk/2026/04/the-recent-april-2026-windows-security-updates-can-trigger-a-one-time-bitlocker-recovery-screen-on-startup/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [External mail settings](https://blog.mindcore.dk/2025/12/external-mail-settings/)
 - [How to retrieve &amp; save messages by InternetMessageID from Microsoft 365 mailboxes via Microsoft Graph](https://blog.mindcore.dk/2025/12/how-to-retrieve-save-messages-by-internetmessageid-from-microsoft-365-mailboxes-via-microsoft-graph/)
 - [Microsoft Teams and external members Pt. 1](https://blog.mindcore.dk/2025/12/microsoft-teams-and-external-members-pt-1/)
-- [Inactive Teams and governance](https://blog.mindcore.dk/2025/11/inactive-teams-and-governance/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
