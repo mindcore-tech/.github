@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [The Fastest Way I’ve Found to Reduce SharePoint Storage Usage](https://blog.mindcore.dk/2026/05/the-fastest-way-ive-found-to-reduce-sharepoint-storage-usage/)
 - [Defender for Endpoint – New feature is out: Live response file library!](https://blog.mindcore.dk/2026/04/defender-for-endpoint-new-feature-is-out-live-response-file-library/)
 - [Mindcore i det daglige – Del 2](https://blog.mindcore.dk/2026/04/mindcore-i-det-daglige-del-2/)
 - [Introducing the Active Directory Domain Page in Microsoft Defender](https://blog.mindcore.dk/2026/04/introducing-the-active-directory-domain-page-in-microsoft-defender/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Azure Arc VM Onboarding Pt.3 – Post-Deployment Task Automation](https://blog.mindcore.dk/2026/01/azure-arc-vm-onboarding-pt-3-post-deployment-task-automation/)
 - [External mail settings](https://blog.mindcore.dk/2025/12/external-mail-settings/)
 - [How to retrieve &amp; save messages by InternetMessageID from Microsoft 365 mailboxes via Microsoft Graph](https://blog.mindcore.dk/2025/12/how-to-retrieve-save-messages-by-internetmessageid-from-microsoft-365-mailboxes-via-microsoft-graph/)
-- [Microsoft Teams and external members Pt. 1](https://blog.mindcore.dk/2025/12/microsoft-teams-and-external-members-pt-1/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
