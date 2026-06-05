@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Entra ID – Now you can disable an Enterprise Application via Microsoft Graph!](https://blog.mindcore.dk/2026/06/entra-id-now-you-can-disable-an-enterprise-application-via-microsoft-graph/)
 - [Active Directory support for RC4 encryption ends July 2026](https://blog.mindcore.dk/2026/06/active-directory-support-for-rc4-encryption-ends-july-2026/)
 - [Microsoft Defender – Nation State Notifications](https://blog.mindcore.dk/2026/05/microsoft-defender-nation-state-notifications/)
 - [The Fastest Way I’ve Found to Reduce SharePoint Storage Usage](https://blog.mindcore.dk/2026/05/the-fastest-way-ive-found-to-reduce-sharepoint-storage-usage/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Conditional Access policies and Custom Security Attributes – Match made in heaven or false security?](https://blog.mindcore.dk/2026/01/conditional-access-policies-and-custom-security-attributes-match-made-in-heaven-or-false-security/)
 - [Entra ID – PIM for Groups – Automating PIM Group Activation in Entra ID with PowerShell](https://blog.mindcore.dk/2026/01/entra-id-pim-for-groups-automating-pim-group-activation-in-entra-id-with-powershell/)
 - [Heads-up: Service Principal-less apps Retirement March 2026](https://blog.mindcore.dk/2026/01/heads-up-service-principal-less-apps-retirement-march-2026/)
-- [Azure Arc VM Onboarding Pt.3 – Post-Deployment Task Automation](https://blog.mindcore.dk/2026/01/azure-arc-vm-onboarding-pt-3-post-deployment-task-automation/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
