@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Teams Shared Channels: Use Cases, B2B Direct Connect, and Governance](https://blog.mindcore.dk/2026/07/teams-shared-channels-use-cases-b2b-direct-connect-and-governance/)
 - [Entra ID – Now you can disable an Enterprise Application via Microsoft Graph!](https://blog.mindcore.dk/2026/06/entra-id-now-you-can-disable-an-enterprise-application-via-microsoft-graph/)
 - [Active Directory support for RC4 encryption ends July 2026](https://blog.mindcore.dk/2026/06/active-directory-support-for-rc4-encryption-ends-july-2026/)
 - [Microsoft Defender – Nation State Notifications](https://blog.mindcore.dk/2026/05/microsoft-defender-nation-state-notifications/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft Intune – Autopatch – CVE and KB reporting – Better visibility, smarter patching](https://blog.mindcore.dk/2026/01/microsoft-intune-autopatch-cve-and-kb-reporting-better-visibility-smarter-patching/)
 - [Conditional Access policies and Custom Security Attributes – Match made in heaven or false security?](https://blog.mindcore.dk/2026/01/conditional-access-policies-and-custom-security-attributes-match-made-in-heaven-or-false-security/)
 - [Entra ID – PIM for Groups – Automating PIM Group Activation in Entra ID with PowerShell](https://blog.mindcore.dk/2026/01/entra-id-pim-for-groups-automating-pim-group-activation-in-entra-id-with-powershell/)
-- [Heads-up: Service Principal-less apps Retirement March 2026](https://blog.mindcore.dk/2026/01/heads-up-service-principal-less-apps-retirement-march-2026/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
