@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Mindcore i det daglige – Del 3](https://blog.mindcore.dk/2026/08/mindcore-i-det-daglige-del-3/)
 - [Teams Shared Channels: Use Cases, B2B Direct Connect, and Governance](https://blog.mindcore.dk/2026/07/teams-shared-channels-use-cases-b2b-direct-connect-and-governance/)
 - [Entra ID – Now you can disable an Enterprise Application via Microsoft Graph!](https://blog.mindcore.dk/2026/06/entra-id-now-you-can-disable-an-enterprise-application-via-microsoft-graph/)
 - [Active Directory support for RC4 encryption ends July 2026](https://blog.mindcore.dk/2026/06/active-directory-support-for-rc4-encryption-ends-july-2026/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft Sentinel Best Practices: DO’s and DON’Ts](https://blog.mindcore.dk/2026/01/microsoft-sentinel-best-practices-dos-and-donts/)
 - [Microsoft Intune – Autopatch – CVE and KB reporting – Better visibility, smarter patching](https://blog.mindcore.dk/2026/01/microsoft-intune-autopatch-cve-and-kb-reporting-better-visibility-smarter-patching/)
 - [Conditional Access policies and Custom Security Attributes – Match made in heaven or false security?](https://blog.mindcore.dk/2026/01/conditional-access-policies-and-custom-security-attributes-match-made-in-heaven-or-false-security/)
-- [Entra ID – PIM for Groups – Automating PIM Group Activation in Entra ID with PowerShell](https://blog.mindcore.dk/2026/01/entra-id-pim-for-groups-automating-pim-group-activation-in-entra-id-with-powershell/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
