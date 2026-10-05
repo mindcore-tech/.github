@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Documentation – My most neglected job.](https://blog.mindcore.dk/2026/10/documentation-my-most-neglected-job/)
 - [Granular Delegated Administrative Privileges &lpar;GDAP&rpar; – where is it not supported/working correctly?](https://blog.mindcore.dk/2026/09/granular-delegated-administrative-privileges-gdap-where-is-it-not-supported-working-correctly/)
 - [Mindcore i det daglige – Del 3](https://blog.mindcore.dk/2026/08/mindcore-i-det-daglige-del-3/)
 - [Teams Shared Channels: Use Cases, B2B Direct Connect, and Governance](https://blog.mindcore.dk/2026/07/teams-shared-channels-use-cases-b2b-direct-connect-and-governance/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [First look: Unified Tenant Configuration Management APIs](https://blog.mindcore.dk/2026/01/first-look-unified-tenant-configuration-management-apis/)
 - [Teams and external members Pt. 2](https://blog.mindcore.dk/2026/01/teams-and-external-members-pt-2/)
 - [Microsoft Sentinel Best Practices: DO’s and DON’Ts](https://blog.mindcore.dk/2026/01/microsoft-sentinel-best-practices-dos-and-donts/)
-- [Microsoft Intune – Autopatch – CVE and KB reporting – Better visibility, smarter patching](https://blog.mindcore.dk/2026/01/microsoft-intune-autopatch-cve-and-kb-reporting-better-visibility-smarter-patching/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
