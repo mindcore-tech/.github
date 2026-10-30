@@ -15,6 +15,8 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [Minimizing Active Directory](https://blog.mindcore.dk/2026/10/minimizing-active-directory/)
+- [Migrating Apple Enrollment Profiles to Enrollment Time Grouping Policies](https://blog.mindcore.dk/2026/10/migrating-apple-enrollment-profiles-to-enrollment-time-grouping-policies/)
 - [Microsoft Teams App Governance Using Unified App Management](https://blog.mindcore.dk/2026/10/microsoft-teams-app-governance-using-unified-app-management/)
 - [How to Migrate Teams Apps to Microsoft’s Unified App Management](https://blog.mindcore.dk/2026/10/how-to-migrate-teams-apps-to-microsofts-unified-app-management/)
 - [Documentation – My most neglected job.](https://blog.mindcore.dk/2026/10/documentation-my-most-neglected-job/)
@@ -38,8 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft Graph – Remembered to restict Mail.Send Application Permission? &lpar;App Access Policies&rpar;](https://blog.mindcore.dk/2026/02/microsoft-graph-remembered-to-restict-mail-send-application-permission-app-access-policies/)
 - [June 2026: Secure Boot Certificates are expiring – Help is on the way](https://blog.mindcore.dk/2026/02/windows-secure-boot-certificate-expiration-2026/)
 - [Ownerless Teams](https://blog.mindcore.dk/2026/02/ownerless-teams/)
-- [Blocking Tor/Botnet/Anonymous Proxy access to M365](https://blog.mindcore.dk/2026/02/blocking-tor-botnet-anonymous-proxy-access-to-m365/)
-- [First look: Unified Tenant Configuration Management APIs](https://blog.mindcore.dk/2026/01/first-look-unified-tenant-configuration-management-apis/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
