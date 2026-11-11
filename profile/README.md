@@ -15,6 +15,7 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 ### 📝 Latest Blog Posts activities
 
 <!-- LATESTACTIVITYBLOG:START -->
+- [What’s new in Windows Server 2025 + an update in the field!](https://blog.mindcore.dk/2026/11/whats-new-in-windows-server-2025-an-update-in-the-field/)
 - [Minimizing Active Directory](https://blog.mindcore.dk/2026/10/minimizing-active-directory/)
 - [Migrating Apple Enrollment Profiles to Enrollment Time Grouping Policies](https://blog.mindcore.dk/2026/10/migrating-apple-enrollment-profiles-to-enrollment-time-grouping-policies/)
 - [Microsoft Teams App Governance Using Unified App Management](https://blog.mindcore.dk/2026/10/microsoft-teams-app-governance-using-unified-app-management/)
@@ -39,7 +40,6 @@ Linkedin: [https://in.linkedin.com/company/mindcoredk](https://in.linkedin.com/c
 - [Microsoft 365 E7: The Frontier Suite and the Rise of AI Agents](https://blog.mindcore.dk/2026/03/microsoft-365-e7-the-frontier-suite-and-the-rise-of-ai-agents/)
 - [Microsoft Graph – Remembered to restict Mail.Send Application Permission? &lpar;App Access Policies&rpar;](https://blog.mindcore.dk/2026/02/microsoft-graph-remembered-to-restict-mail-send-application-permission-app-access-policies/)
 - [June 2026: Secure Boot Certificates are expiring – Help is on the way](https://blog.mindcore.dk/2026/02/windows-secure-boot-certificate-expiration-2026/)
-- [Ownerless Teams](https://blog.mindcore.dk/2026/02/ownerless-teams/)
 <!-- LATESTACTIVITYBLOG:END -->
 
 ### 📞 **Contact us**
